@@ -1,0 +1,46 @@
+.renewel-edit-form {
+    font: normal 18px/1.5 "Fira Sans", "Helvetica Neue", sans-serif;
+    color: #262828; 
+}
+
+.header-nav {
+    margin: auto;
+    width: 39%;
+}
+
+.renewel-edit-form .form-group {
+    margin: 10px;
+}
+
+.renewel-edit-form .form-group .right {
+    color: lightgrey;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.renewel-edit-form .padding-left-110 {
+    padding-left: 110px;
+}
+
+.renewel-edit-form .padding-left-220 {
+    padding-left: 220px;
+}
+
+#nextSteps, #myNotes {
+    width: 450px;
+}
+
+.renewel-edit-form .checkbox {
+    padding: 30px;
+}
+
+.renewel-edit-form .checkbox input {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.renewel-edit-form .checkbox label {
+    padding-top: 40px;
+}
